@@ -6,10 +6,10 @@ Open [https://et-fashion-7539d.web.app/](https://et-fashion-7539d.web.app/) to v
 
 # Tools
 
-#### React
-#### Firebase - Hosting,Firestore, Storage, Auth
-#### Material UI
-#### Redux
+#### -React
+#### -Firebase - Hosting, Firestore, Storage, Auth
+#### -Material UI
+#### -Redux
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
